@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SahilAgroha/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/SahilAgroha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SahilAgroha/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/SahilAgroha/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SahilAgroha/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/SahilAgroha/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SahilAgroha/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SahilAgroha/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
