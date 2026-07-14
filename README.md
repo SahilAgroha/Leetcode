@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SahilAgroha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SahilAgroha/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SahilAgroha/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/SahilAgroha/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SahilAgroha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SahilAgroha/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SahilAgroha/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SahilAgroha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SahilAgroha/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SahilAgroha/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/SahilAgroha/Leetcode/tree/master/0242-valid-anagram) |
