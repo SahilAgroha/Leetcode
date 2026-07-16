@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SahilAgroha/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0740-delete-and-earn](https://github.com/SahilAgroha/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SahilAgroha/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilAgroha/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/SahilAgroha/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/SahilAgroha/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SahilAgroha/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -158,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
