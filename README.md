@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/SahilAgroha/Leetcode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/SahilAgroha/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/SahilAgroha/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SahilAgroha/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SahilAgroha/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/SahilAgroha/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SahilAgroha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/SahilAgroha/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Trie
