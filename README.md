@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/SahilAgroha/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/SahilAgroha/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/SahilAgroha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/SahilAgroha/Leetcode/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/SahilAgroha/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/SahilAgroha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/SahilAgroha/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/SahilAgroha/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/SahilAgroha/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/SahilAgroha/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Bit Manipulation
