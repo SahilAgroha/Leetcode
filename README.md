@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SahilAgroha/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/SahilAgroha/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SahilAgroha/Leetcode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/SahilAgroha/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SahilAgroha/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SahilAgroha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SahilAgroha/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/SahilAgroha/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SahilAgroha/Leetcode/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/SahilAgroha/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SahilAgroha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/SahilAgroha/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SahilAgroha/Leetcode/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/SahilAgroha/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/SahilAgroha/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/SahilAgroha/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SahilAgroha/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -345,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SahilAgroha/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SahilAgroha/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
