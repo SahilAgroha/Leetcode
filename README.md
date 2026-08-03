@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SahilAgroha/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SahilAgroha/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SahilAgroha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SahilAgroha/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SahilAgroha/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SahilAgroha/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/SahilAgroha/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1406-stone-game-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SahilAgroha/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SahilAgroha/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SahilAgroha/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/SahilAgroha/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1406-stone-game-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -370,8 +373,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SahilAgroha/Leetcode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SahilAgroha/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
