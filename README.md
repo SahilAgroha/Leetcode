@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SahilAgroha/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SahilAgroha/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/SahilAgroha/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/SahilAgroha/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SahilAgroha/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/SahilAgroha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SahilAgroha/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SahilAgroha/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/SahilAgroha/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/SahilAgroha/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SahilAgroha/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/SahilAgroha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SahilAgroha/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SahilAgroha/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SahilAgroha/Leetcode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/SahilAgroha/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SahilAgroha/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/SahilAgroha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SahilAgroha/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/SahilAgroha/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/SahilAgroha/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1386-cinema-seat-allocation](https://github.com/SahilAgroha/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1406-stone-game-iii) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SahilAgroha/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SahilAgroha/Leetcode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/SahilAgroha/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Counting
 |  |
 | ------- |
