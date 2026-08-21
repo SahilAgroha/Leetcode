@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/SahilAgroha/Leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SahilAgroha/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SahilAgroha/Leetcode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SahilAgroha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SahilAgroha/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SahilAgroha/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SahilAgroha/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/SahilAgroha/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SahilAgroha/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SahilAgroha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SahilAgroha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SahilAgroha/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SahilAgroha/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SahilAgroha/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SahilAgroha/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SahilAgroha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SahilAgroha/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SahilAgroha/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SahilAgroha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SahilAgroha/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SahilAgroha/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilAgroha/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SahilAgroha/Leetcode/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SahilAgroha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SahilAgroha/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/SahilAgroha/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SahilAgroha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SahilAgroha/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SahilAgroha/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search Tree
