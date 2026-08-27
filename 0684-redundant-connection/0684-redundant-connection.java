@@ -1,30 +1,26 @@
 class Solution {
+    private int findPar(int x,int[] par){
+        if(par[x]==x){
+            return x;
+        }
+        return findPar(par[x],par);
+    }
     public int[] findRedundantConnection(int[][] edges) {
-        int n = edges.length;
-        int[] ans = new int[]{-1, -1};
-        int[] parent = new int[n + 1];
-
-        for(int i = 0; i <= n; i++){
-            parent[i] = i;
+        int n=edges.length;
+        int[] par=new int[n+1];
+        for(int i=0;i<=n;i++){
+            par[i]=i;
         }
 
         for(int[] edge : edges){
-            int p1 = findParent(edge[0], parent);
-            int p2 = findParent(edge[1], parent);
-
-            if(p1 == p2)
-                ans = edge;
-
-            parent[p2] = p1;
+            int par1=findPar(edge[0],par);
+            int par2=findPar(edge[1],par);
+            if(par1==par2){
+                return edge;
+            }
+            par[par1]=par2;
         }
 
-        return ans;
-    }
-
-    private int findParent(int node, int[] parent){
-        if(node == parent[node])
-            return node;
-
-        return findParent(parent[node], parent);
+        return new int[2];
     }
 }
