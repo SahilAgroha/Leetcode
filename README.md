@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/SahilAgroha/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/SahilAgroha/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/SahilAgroha/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SahilAgroha/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SahilAgroha/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/SahilAgroha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SahilAgroha/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SahilAgroha/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/SahilAgroha/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SahilAgroha/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1765-map-of-highest-peak](https://github.com/SahilAgroha/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SahilAgroha/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/SahilAgroha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SahilAgroha/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/SahilAgroha/Leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/SahilAgroha/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SahilAgroha/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SahilAgroha/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/SahilAgroha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/SahilAgroha/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SahilAgroha/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/SahilAgroha/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SahilAgroha/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SahilAgroha/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/SahilAgroha/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/SahilAgroha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
