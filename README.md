@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SahilAgroha/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/SahilAgroha/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SahilAgroha/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SahilAgroha/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/SahilAgroha/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/SahilAgroha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Array
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/SahilAgroha/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/SahilAgroha/Leetcode/tree/master/1872-stone-game-viii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SahilAgroha/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/SahilAgroha/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SahilAgroha/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/SahilAgroha/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/SahilAgroha/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SahilAgroha/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/SahilAgroha/Leetcode/tree/master/2050-parallel-courses-iii) |
 ## Directed Acyclic Graph
 |  |
@@ -592,10 +595,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SahilAgroha/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SahilAgroha/Leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SahilAgroha/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/SahilAgroha/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/SahilAgroha/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SahilAgroha/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
