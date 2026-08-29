@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SahilAgroha/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/SahilAgroha/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SahilAgroha/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/SahilAgroha/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SahilAgroha/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/SahilAgroha/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SahilAgroha/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/SahilAgroha/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SahilAgroha/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/SahilAgroha/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SahilAgroha/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/SahilAgroha/Leetcode/tree/master/0994-rotting-oranges) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SahilAgroha/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SahilAgroha/Leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/SahilAgroha/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SahilAgroha/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0990-satisfiability-of-equality-equations](https://github.com/SahilAgroha/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SahilAgroha/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Game Theory
 |  |
@@ -567,4 +571,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/SahilAgroha/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
