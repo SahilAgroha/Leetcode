@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SahilAgroha/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SahilAgroha/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SahilAgroha/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SahilAgroha/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SahilAgroha/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/SahilAgroha/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SahilAgroha/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SahilAgroha/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SahilAgroha/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SahilAgroha/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SahilAgroha/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/SahilAgroha/Leetcode/tree/master/0994-rotting-oranges) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SahilAgroha/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SahilAgroha/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SahilAgroha/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SahilAgroha/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SahilAgroha/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0990-satisfiability-of-equality-equations](https://github.com/SahilAgroha/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/SahilAgroha/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/SahilAgroha/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SahilAgroha/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SahilAgroha/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/SahilAgroha/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SahilAgroha/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SahilAgroha/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/SahilAgroha/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/SahilAgroha/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -585,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SahilAgroha/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SahilAgroha/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
