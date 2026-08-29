@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/SahilAgroha/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/SahilAgroha/Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SahilAgroha/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1514-path-with-maximum-probability](https://github.com/SahilAgroha/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SahilAgroha/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/SahilAgroha/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/SahilAgroha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SahilAgroha/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SahilAgroha/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/SahilAgroha/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/SahilAgroha/Leetcode/tree/master/1563-stone-game-v) |
 | [1765-map-of-highest-peak](https://github.com/SahilAgroha/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1872-stone-game-viii](https://github.com/SahilAgroha/Leetcode/tree/master/1872-stone-game-viii) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SahilAgroha/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/SahilAgroha/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Game Theory
 |  |
 | ------- |
@@ -575,8 +578,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/SahilAgroha/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SahilAgroha/Leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/SahilAgroha/Leetcode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
