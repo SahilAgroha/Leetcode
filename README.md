@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/SahilAgroha/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SahilAgroha/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/SahilAgroha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SahilAgroha/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/SahilAgroha/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SahilAgroha/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SahilAgroha/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SahilAgroha/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SahilAgroha/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SahilAgroha/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SahilAgroha/Leetcode/tree/master/3731-find-missing-elements) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SahilAgroha/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SahilAgroha/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SahilAgroha/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SahilAgroha/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SahilAgroha/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SahilAgroha/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/SahilAgroha/Leetcode/tree/master/3731-find-missing-elements) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SahilAgroha/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/SahilAgroha/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/SahilAgroha/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SahilAgroha/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
 |  |
 | ------- |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SahilAgroha/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SahilAgroha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SahilAgroha/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SahilAgroha/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SahilAgroha/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search Tree
 |  |
