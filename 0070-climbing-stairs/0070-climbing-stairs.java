@@ -1,16 +1,19 @@
 class Solution {
-    public int climbStairs(int n) {
-        int dp[]=new int[n+1];
-        dp[0]=1;
-
-        for(int i=1;i<=n;i++){
-            if(i==1){
-                dp[i]=dp[i-1];
-            } else {
-                dp[i]=dp[i-1]+dp[i-2];
-            }
-
+    private int helper(int n , int[] way){
+        if(n==0 || n==1){
+            return way[n]=1;
         }
-        return dp[n];
+        if(way[n-1]==0){
+            way[n-1]=helper(n-1,way);
+        }
+        if(way[n-2]==0){
+            way[n-2]=helper(n-2,way);
+        }
+        return way[n]=way[n-1]+way[n-2];
     }
+    public int climbStairs(int n) {
+        int way[]=new int[n+1];
+        return helper(n,way);
+    }
+
 }
