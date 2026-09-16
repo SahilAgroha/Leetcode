@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SahilAgroha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/SahilAgroha/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SahilAgroha/Leetcode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/SahilAgroha/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/SahilAgroha/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/SahilAgroha/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/SahilAgroha/Leetcode/tree/master/0835-image-overlap) |
@@ -299,11 +300,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SahilAgroha/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SahilAgroha/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/SahilAgroha/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/SahilAgroha/Leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SahilAgroha/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SahilAgroha/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/SahilAgroha/Leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SahilAgroha/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
 |  |
