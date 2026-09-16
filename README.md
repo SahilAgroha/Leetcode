@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SahilAgroha/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/SahilAgroha/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SahilAgroha/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SahilAgroha/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/SahilAgroha/Leetcode/tree/master/0130-surrounded-regions) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/SahilAgroha/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/SahilAgroha/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/SahilAgroha/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0494-target-sum) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SahilAgroha/Leetcode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/SahilAgroha/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SahilAgroha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SahilAgroha/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
