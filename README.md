@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SahilAgroha/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SahilAgroha/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SahilAgroha/Leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SahilAgroha/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SahilAgroha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/SahilAgroha/Leetcode/tree/master/0049-group-anagrams) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SahilAgroha/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SahilAgroha/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
