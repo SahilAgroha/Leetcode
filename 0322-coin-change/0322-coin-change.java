@@ -1,11 +1,10 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int n=coins.length;
-
         int dp[][]=new int[n+1][amount+1];
         int INF=amount+1;
-        for(int j=1;j<=amount;j++){
-            dp[0][j]=INF;
+        for(int i=1;i<=amount;i++){
+            dp[0][i]=INF;
         }
 
         for(int i=1;i<=n;i++){
