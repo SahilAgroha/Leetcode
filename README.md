@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SahilAgroha/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SahilAgroha/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SahilAgroha/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/SahilAgroha/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/SahilAgroha/Leetcode/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SahilAgroha/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/SahilAgroha/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SahilAgroha/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/SahilAgroha/Leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SahilAgroha/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/SahilAgroha/Leetcode/tree/master/1872-stone-game-viii) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SahilAgroha/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SahilAgroha/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/SahilAgroha/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SahilAgroha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SahilAgroha/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SahilAgroha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0740-delete-and-earn](https://github.com/SahilAgroha/Leetcode/tree/master/0740-delete-and-earn) |
 | [1386-cinema-seat-allocation](https://github.com/SahilAgroha/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SahilAgroha/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/SahilAgroha/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SahilAgroha/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SahilAgroha/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SahilAgroha/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SahilAgroha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/SahilAgroha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SahilAgroha/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SahilAgroha/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
 |  |
