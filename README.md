@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SahilAgroha/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/SahilAgroha/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/SahilAgroha/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/SahilAgroha/Leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/SahilAgroha/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SahilAgroha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/SahilAgroha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SahilAgroha/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/SahilAgroha/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/SahilAgroha/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/SahilAgroha/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Minimax
 |  |
@@ -732,4 +734,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SahilAgroha/Leetcode/tree/master/0322-coin-change) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SahilAgroha/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SahilAgroha/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
