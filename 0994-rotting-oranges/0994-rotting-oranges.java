@@ -2,44 +2,40 @@ class Solution {
     public int orangesRotting(int[][] grid) {
         int n=grid.length;
         int m=grid[0].length;
-        Queue<int[]> queue=new LinkedList<>();
         int fresh=0;
+        Queue<int[]> q=new LinkedList<>();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]==2){
-                    queue.offer(new int[]{i,j});
-                } else if(grid[i][j]==1){
+                if(grid[i][j]==1){
                     fresh++;
+                }
+                else if(grid[i][j]==2){
+                    q.offer(new int[]{i,j});
                 }
             }
         }
-        if(fresh==0){
-            return 0;
-        }
-        int min=0;
-        int[][] dir={{1,0},{-1,0},{0,1},{0,-1}};
-        while(!queue.isEmpty()){
-            int size=queue.size();
-            boolean infacted=false;
-
+        int dx[]=new int[]{1,0,-1,0};
+        int dy[]=new int[]{0,1,0,-1};
+        int ans=0;
+        while(!q.isEmpty() && fresh > 0){
+            int size=q.size();
             for(int i=0;i<size;i++){
-                int[] curr=queue.poll();
-
-                for(int[] d:dir){
-                    int r=curr[0]+d[0];
-                    int c=curr[1]+d[1];
-                    if(r>=0 && r<n && c>=0 && c<m && grid[r][c]==1){
-                        grid[r][c]=2;
-                        infacted=true;
-                        queue.offer(new int[]{r, c});
+                int[] dxdy=q.poll();
+                for(int j=0;j<4;j++){
+                    int nx=dxdy[0]+dx[j];
+                    int ny=dxdy[1]+dy[j];
+                    if(nx<0 || nx>=n || ny<0 || ny>=m || grid[nx][ny]!=1){
+                        continue ;
+                    } else {
+                        grid[nx][ny]=2;
+                        q.offer(new int[]{nx,ny});
                         fresh--;
                     }
                 }
             }
-            if(infacted){
-                min++;
-            }
+            ans++;
         }
-        return fresh==0?min:-1;
+
+        return fresh==0?ans:-1;
     }
 }
