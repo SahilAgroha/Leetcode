@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/SahilAgroha/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SahilAgroha/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SahilAgroha/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/SahilAgroha/Leetcode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/SahilAgroha/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0494-target-sum) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/SahilAgroha/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SahilAgroha/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/SahilAgroha/Leetcode/tree/master/0337-house-robber-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/SahilAgroha/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/SahilAgroha/Leetcode/tree/master/0509-fibonacci-number) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SahilAgroha/Leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -757,4 +760,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SahilAgroha/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
