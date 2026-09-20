@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/SahilAgroha/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/SahilAgroha/Leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/SahilAgroha/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/SahilAgroha/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SahilAgroha/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/SahilAgroha/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SahilAgroha/Leetcode/tree/master/0200-number-of-islands) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/SahilAgroha/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/SahilAgroha/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/SahilAgroha/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/SahilAgroha/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SahilAgroha/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SahilAgroha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
