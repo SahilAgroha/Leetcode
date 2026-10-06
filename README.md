@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SahilAgroha/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SahilAgroha/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/SahilAgroha/Leetcode/tree/master/0100-same-tree) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/SahilAgroha/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SahilAgroha/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SahilAgroha/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SahilAgroha/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/SahilAgroha/Leetcode/tree/master/0130-surrounded-regions) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SahilAgroha/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SahilAgroha/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/SahilAgroha/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/SahilAgroha/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/SahilAgroha/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/SahilAgroha/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/SahilAgroha/Leetcode/tree/master/0242-valid-anagram) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/SahilAgroha/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/SahilAgroha/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SahilAgroha/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/SahilAgroha/Leetcode/tree/master/0463-island-perimeter) |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/SahilAgroha/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SahilAgroha/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SahilAgroha/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/SahilAgroha/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0494-target-sum) |
