@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SahilAgroha/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/SahilAgroha/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SahilAgroha/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SahilAgroha/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SahilAgroha/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SahilAgroha/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SahilAgroha/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/SahilAgroha/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/SahilAgroha/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SahilAgroha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/SahilAgroha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/SahilAgroha/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SahilAgroha/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SahilAgroha/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/SahilAgroha/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SahilAgroha/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/SahilAgroha/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SahilAgroha/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -864,4 +867,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SahilAgroha/Leetcode/tree/master/0139-word-break) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SahilAgroha/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SahilAgroha/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
