@@ -860,4 +860,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SahilAgroha/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SahilAgroha/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
