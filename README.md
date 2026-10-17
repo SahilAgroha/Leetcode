@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SahilAgroha/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SahilAgroha/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/SahilAgroha/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SahilAgroha/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SahilAgroha/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SahilAgroha/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SahilAgroha/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SahilAgroha/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SahilAgroha/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/SahilAgroha/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SahilAgroha/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SahilAgroha/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SahilAgroha/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SahilAgroha/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SahilAgroha/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SahilAgroha/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SahilAgroha/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SahilAgroha/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SahilAgroha/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SahilAgroha/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SahilAgroha/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
