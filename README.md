@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/SahilAgroha/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SahilAgroha/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/SahilAgroha/Leetcode/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/SahilAgroha/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SahilAgroha/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/SahilAgroha/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SahilAgroha/Leetcode/tree/master/0198-house-robber) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/SahilAgroha/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/SahilAgroha/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/SahilAgroha/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/SahilAgroha/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SahilAgroha/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/SahilAgroha/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SahilAgroha/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SahilAgroha/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SahilAgroha/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/SahilAgroha/Leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/SahilAgroha/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/SahilAgroha/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/SahilAgroha/Leetcode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/SahilAgroha/Leetcode/tree/master/1096-brace-expansion-ii) |
