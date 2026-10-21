@@ -15,16 +15,15 @@
  */
 class Solution {
     int ans=0;
-    private void helper(TreeNode root, int targetSum, HashMap<Long,Integer> map, long sum){
+    private void helper(TreeNode root, int target, HashMap<Long,Integer> map, long sum){
         if(root==null){
             return ;
         }
         sum+=root.val;
-        ans+=map.getOrDefault(sum-targetSum,0);
-        map.put(sum,map.getOrDefault(sum,0)+1);
-
-        helper(root.left,targetSum,map,sum);
-        helper(root.right,targetSum,map,sum);
+        ans+=map.getOrDefault(sum-target,0);
+        map.put(sum, map.getOrDefault(sum,0)+1);
+        helper(root.right,target,map,sum);
+        helper(root.left,target,map,sum);
         map.put(sum,map.get(sum)-1);
 
     }
